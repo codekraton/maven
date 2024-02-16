@@ -1,0 +1,4 @@
+<service>
+    <codekraton.user>${codekraton.user}</codekraton.user>
+    <codekraton.password>${codekraton.password}</codekraton.password>
+</service>
